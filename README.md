@@ -6,6 +6,7 @@
 My inspiration comes from Cai Guo-Qiang’s gunpowder fireworks in the Saint Laurent art film. The “imaging technique” here refers to the unique way visual forms are created and captured—through physical explosion, layered smoke, scattered particles, and unfolding sequences in the sky. I am especially inspired by the transformation from a concentrated firework burst into branching forms that resemble natural growth or blooming—creating a dramatic, evolving image.
 
 [Watch the inspiration video on YouTube](https://www.youtube.com/watch?v=I2uIi0GT8Qg&ab_channel=SaintLaurent)
+
 <img src="Image/firework1.png" width="400"/>  
 <img src="Image/firework2.png" width="400"/>
 
