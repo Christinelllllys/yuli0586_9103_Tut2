@@ -13,6 +13,9 @@ My inspiration comes from Cai Guo-Qiang’s gunpowder fireworks in the Saint Lau
 ### How This Inspires My Project
 I want to borrow the imaging logic in Cai Guo-Qiang’s fireworks—the process of visual expansion from focused bursts into layered forms. This helps me animate *Ntange II (Grass)* by translating its dots and lines into growing, branching particles with dynamic timing and colour variation. The technique’s visual layering and motion echo the complexity and rhythm in the original painting. It fits the assignment goal because it allows me to abstract the painting using Perlin noise and randomness, creating a generative system that evolves over time—matching the requirement to animate the group artwork in a personal, expressive way.
 
+**Note:** Although *Ntange II (Grass)* is the artwork I personally intend to explore in the final project, the screenshots shown here are from my visual inspiration—Cai Guo-Qiang’s fireworks—not from the original painting.
+
+
 ## Part 2: Coding Technique Exploration
 I use **Perlin noise** to drive smooth, organic animation in my reinterpretation of *Ntange II (Grass)*. Inspired by the expanding motion of fireworks, I apply Perlin noise to control particle movement and simulate drifting grass or sparks that unfold from a central burst. Unlike simple randomness, Perlin noise creates natural transitions that evolve over time, adding rhythm and coherence to the animation. This technique is ideal for abstracting the original painting into an expressive and generative digital form.
 
